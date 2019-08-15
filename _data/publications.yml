@@ -1,0 +1,68 @@
+# Publications
+#- authors: N. Tsagkas, P. Tsinganos and A. Skodras
+#  title: “On the Use of Deeper CNNs in Hand Gesture Recognition Based on sEMG Signals”
+#  proceedings:
+#    title: 2019 International Conference on Information, Intelligence, Systems and Applications (IISA)
+#    location: Patras, Greece
+#  year: 2019
+#  pages:
+#  url:
+
+- authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
+  title: “A Hilbert Curve Based Representation of sEMG Signals for Gesture Recognition”
+  proceedings:
+    title: 2019 International Conference on Systems, Signals and Image Processing (IWSSIP)
+    location: Osijek, Croatia
+  year: 2019
+  pages: 201-206
+  url: https://www.doi.org/10.1109/IWSSIP.2019.8787290
+
+- authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
+  title: “Improved Gesture Recognition Based on sEMG Signals and TCN”
+  proceedings:
+    title: 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+    location: Brighton, UK
+  year: 2019
+  pages: 1169–1173
+  url: https://www.doi.org/10.1109/ICASSP.2019.8683239
+
+- authors: P. Tsinganos, A. Skodras, B. Cornelis and B. Jansen
+  title: “Deep Learning in Gesture Recognition Based on sEMG Signals”
+  book:
+    title: Learning Approaches in Signal Processing
+    publisher: Eds. Pan Stanford Publishing
+    edition: 1st ed.
+    editors: F. Ring, W.-C. Siu, L.-P. Chau, L. Wang and T. Tang
+  year: 2018
+  pages: 471
+  url: https://www.doi.org/10.1201/9780429061141
+
+- authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
+  title: “Deep Learning in EMG-based Gesture Recognition”
+  proceedings:
+    title: 5th International Conference on Physiological Computing Systems (PhyCS)
+    location: Seville, Spain
+  year: 2018
+  pages: 107–114
+  url: https://www.doi.org/10.5220/0006960201070114
+
+- authors: P. Tsinganos and A. Skodras
+  title: “On the Comparison of Wearable Sensor Data Fusion to a Single Sensor Machine Learning Technique Fall Detection”
+  journal: 
+    title: Sensors
+    volume: 18
+    number: 2
+  year: 2018
+  pages: 592
+  url: https://www.doi.org/10.3390/s18020592
+
+- authors: P. Tsinganos and A. Skodras
+  title: “A Smartphone-based Fall Detection System for the Elderly”
+  proceedings:
+    title: 10th International Symposium on Image and Signal Processing and Analysis (ISPA)
+    location: Ljubljana, Slovenia
+  year: 2017
+  pages: 53-58
+  url: https://www.doi.org/10.1109/ISPA.2017.8073568
+
+

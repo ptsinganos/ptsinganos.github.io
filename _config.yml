@@ -1,0 +1,59 @@
+# Site settings
+title: "Panagiotis Tsinganos - Curriculum Vitae"
+description: "A resume for Panagiotis Tsinganos based on the template for Jekyll and GitHub Pages sites."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Panagiotis Tsinganos"
+resume_title:                   "PhD Candidate"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "panagiotis.tsinganos@ece.upatras.gr"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "261 099 7806"
+resume_contact_address:         "University Campus, 26504 Rio Achaia, Greece"
+
+resume_header_contact_info:     "University Campus, 26504 Rio Achaia, Greece • 261 099 7806 • panagiotis.tsinganos@ece.upatras.gr"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p><b>Panagiotis Tsinganos</b> is a PhD Candidate at the Department of Electrical and Computer Engineering, in University of Patras, Greece. He investigates the subject of gesture recognition based on surface electromyography (sEMG) using Deep Learning methods. His research interests include signal/image processing, machine learning and data mining as well as embedded systems programming.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+# resume_section_experience:         true
+resume_section_education:           true
+resume_section_publications:        true
+#resume_section_projects:            true
+resume_section_skills:              true
+resume_section_recognition:         true
+#resume_section_links:               true
+#resume_section_associations:        true
+#resume_section_interests:           true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/ptsinganos"
+  resume_linkedin_url:          "https://gr.linkedin.com/in/ptsinganos"
+#  resume_website_url:           "http://joelglovier.com"
+resume_print_social_links:    true
+
+# Design settings
+resume_theme:                 default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

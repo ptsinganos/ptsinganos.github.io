@@ -1,0 +1,18 @@
+# Skills
+# Organizational leadership
+#- skill: Organizational leadership
+#  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+
+- skill: Programming languages
+  description: HTML, JavaScript, C/C++, Python, Android, Matlab
+
+- skill: Signal Processing
+
+- skill: Machine Learning
+  description: Data Mining, Artificial Neural Networks, Deep Learning
+
+- skill: Embedded Programming
+  description: Experience in ARM Cortex M3 and RTOS
+
+- skill: Communication protocols
+  description: TCP/IP, GSM, MQTT
