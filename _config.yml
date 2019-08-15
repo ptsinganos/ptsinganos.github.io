@@ -17,10 +17,10 @@ resume_title:                   "PhD Candidate"
 resume_contact_email:           "panagiotis.tsinganos@ece.upatras.gr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "261 099 7806"
+resume_contact_telephone:       "+30 261 099 7806"
 resume_contact_address:         "University Campus, 26504 Rio Achaia, Greece"
 
-resume_header_contact_info:     "University Campus, 26504 Rio Achaia, Greece • 261 099 7806 • panagiotis.tsinganos@ece.upatras.gr"
+resume_header_contact_info:     "University Campus, 26504 Rio Achaia, Greece • +30 261 099 7806 • panagiotis.tsinganos@ece.upatras.gr"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p><b>Panagiotis Tsinganos</b> is a PhD Candidate at the Department of Electrical and Computer Engineering, in University of Patras, Greece. He investigates the subject of gesture recognition based on surface electromyography (sEMG) using Deep Learning methods. His research interests include signal/image processing, machine learning and data mining as well as embedded systems programming.</p>"
