@@ -9,6 +9,16 @@
 #  url:
 
 - authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
+  title: “Hand Gesture Recognition Based on EMG Data: A Convolutional Neural Network Approach”
+  book:
+    title: Physiological Computing Systems. PhyCS 2016, PhyCS 2017, PhyCS 2018. Lecture Notes in Computer Science
+    publisher: Springer, Cham
+    editors: A. Holzinger, A. Pope and H. Plácido da Silva
+  year: 2019
+  pages: 180-197
+  url: https://doi.org/10.1007/978-3-030-27950-9_10
+
+- authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
   title: “A Hilbert Curve Based Representation of sEMG Signals for Gesture Recognition”
   proceedings:
     title: 2019 International Conference on Systems, Signals and Image Processing (IWSSIP)
