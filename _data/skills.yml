@@ -4,9 +4,10 @@
 #  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 - skill: Programming languages
-  description: HTML, JavaScript, C/C++, Python, Android, Matlab
+  description: C/C++, Python, Android, Matlab, HTML, JavaScript
 
 - skill: Signal Processing
+  description: Image and Signal Processing, Biomedical Signals
 
 - skill: Machine Learning
   description: Data Mining, Artificial Neural Networks, Deep Learning
