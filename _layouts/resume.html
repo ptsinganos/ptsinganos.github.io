@@ -178,7 +178,8 @@
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
-          {% if recognition.image %}<img src="{{ recognition.image }}" itemprop="image" class="center">{% endif %}
+          {% if recognition.image %}<img src="{{ recognition.image }}" itemprop="image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"
+">{% endif %}
         </div>
         {% endfor %}
 
