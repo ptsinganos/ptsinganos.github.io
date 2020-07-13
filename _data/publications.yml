@@ -9,6 +9,13 @@
 #  url:
 
 - authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
+  title: “Hilbert sEMG data scanning for hand gesture recognition based on deep learning”
+  journal: 
+    title: Neural Computing and Applications
+  year: 2020
+  url: https://doi.org/10.1007/s00521-020-05128-7
+
+- authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
   title: “Hand Gesture Recognition Based on EMG Data&#58; A Convolutional Neural Network Approach”
   book:
     title: Physiological Computing Systems. PhyCS 2016, PhyCS 2017, PhyCS 2018. Lecture Notes in Computer Science
