@@ -116,9 +116,9 @@
             {% elsif publication.book %}
             <i>{{ publication.book.title }}</i>, {{ publication.book.edition }}, {{ publication.book.editors }}, {{ publication.book.publisher }},
             {% elsif publication.journal %}
-            <i>{{ publication.journal.title }}</i>, {{ publication.journal.volume }}({{ publication.journal.number }}),
+            <i>{{ publication.journal.title }}</i>, {% if publication.journal.volume %} {{ publication.journal.volume }}({{ publication.journal.number }}), {%endif %}
             {% endif %}
-            {{ publication.year }}, pp. {{ publication.pages }}.
+            {{ publication.year }}{% if publication.pages %}, pp. {{ publication.pages }}.{% endif %}
         </p>
         </div>
         {% endfor %}
