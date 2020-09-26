@@ -9,9 +9,19 @@
 #  url:
 
 - authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
+  title: “Data Augmentation of Surface Electromyography for Hand Gesture Recognition”
+  journal: 
+    title: Sensors, MDPI
+    volume: 20
+    issue: 17
+    article: 4892
+  year: 2020
+  url: https://doi.org/10.3390/s20174892
+
+- authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
   title: “Hilbert sEMG data scanning for hand gesture recognition based on deep learning”
   journal: 
-    title: Neural Computing and Applications
+    title: Neural Computing and Applications, Springer
   year: 2020
   url: https://doi.org/10.1007/s00521-020-05128-7
 
@@ -66,11 +76,11 @@
 - authors: P. Tsinganos and A. Skodras
   title: “On the Comparison of Wearable Sensor Data Fusion to a Single Sensor Machine Learning Technique Fall Detection”
   journal: 
-    title: Sensors
+    title: Sensors, MDPI
     volume: 18
-    number: 2
+    issue: 2
+    article: 592
   year: 2018
-  pages: 592
   url: https://www.doi.org/10.3390/s18020592
 
 - authors: P. Tsinganos and A. Skodras
