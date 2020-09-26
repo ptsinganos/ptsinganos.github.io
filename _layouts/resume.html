@@ -116,7 +116,7 @@
             {% elsif publication.book %}
             <i>{{ publication.book.title }}</i>, {{ publication.book.edition }}, {{ publication.book.editors }}, {{ publication.book.publisher }},
             {% elsif publication.journal %}
-            <i>{{ publication.journal.title }}</i>{% if publication.journal.volume %} {{, publication.journal.volume }}({{ publication.journal.issue }}) {% endif %} {%if publication.journal.article %} {{, publication.journal.article }} {% endif %},
+            <i>{{ publication.journal.title }}</i>{% if publication.journal.volume %}, {{ publication.journal.volume }}({{ publication.journal.issue }}){% endif %}{%if publication.journal.article %}, {{ publication.journal.article }}{% endif %},
             {% endif %}
             {{ publication.year }}{% if publication.pages %}, pp. {{ publication.pages }}.{% endif %}
         </p>
