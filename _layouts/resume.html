@@ -118,7 +118,7 @@
             {% elsif publication.journal %}
             <i>{{ publication.journal.title }}</i>{% if publication.journal.volume %}, {{ publication.journal.volume }}({{ publication.journal.issue }}){% endif %}{%if publication.journal.article %}, {{ publication.journal.article }}{% endif %},
             {% endif %}
-            {{ publication.year }}{% if publication.pages %}, pp. {{ publication.pages }}.{% endif %}
+            {{ publication.year }}{% if publication.pages %}, pp. {{ publication.pages }}{% endif %}.
         </p>
         </div>
         {% endfor %}
