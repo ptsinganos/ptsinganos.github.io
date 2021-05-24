@@ -9,6 +9,16 @@
 #  url:
 
 - authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
+  title: “The Effect of Space-filling Curves on the Efficiency of Hand Gesture Recognition Based on sEMG Signals”
+  journal: 
+    title: International Journal of Electrical and Computer Engineering Systems
+    volume: 12
+    issue: 1
+    pages: 23-31
+  year: 2021
+  url: https://doi.org/10.32985/ijeces.12.1.3
+
+- authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
   title: “Data Augmentation of Surface Electromyography for Hand Gesture Recognition”
   journal: 
     title: Sensors, MDPI
