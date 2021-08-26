@@ -8,6 +8,14 @@
 #  pages:
 #  url:
 
+- authors: P. Tsinganos, J. Cornelis, B. Cornelis, B. Jansen and A. Skodras
+  title: “Transfer Learning in sEMG-based Gesture Recognition”
+  proceedings:
+    title: 2021 International Conference on Information, Intelligence, Systems and Applications (IISA 2021)
+    location: Chania, Greece
+  year: 2021
+  url: 
+  
 - authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
   title: “The Effect of Space-filling Curves on the Efficiency of Hand Gesture Recognition Based on sEMG Signals”
   journal: 
