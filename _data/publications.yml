@@ -8,13 +8,23 @@
 #  pages:
 #  url:
 
+- authors: P. Tsinganos, B. Jansen, J. Cornelis and A. Skodras
+  title: “Real-Time Analysis of Hand Gesture Recognition with Temporal Convolutional Networks”
+  journal: 
+    title: Sensors, MDPI
+    volume: 22
+    issue: 5
+    article: 1694
+  year: 2022
+  url: https://www.mdpi.com/1424-8220/22/5/1694/htm
+
 - authors: P. Tsinganos, J. Cornelis, B. Cornelis, B. Jansen and A. Skodras
   title: “Transfer Learning in sEMG-based Gesture Recognition”
   proceedings:
     title: 2021 International Conference on Information, Intelligence, Systems and Applications (IISA 2021)
     location: Chania, Greece
   year: 2021
-  url: 
+  url: https://ieeexplore.ieee.org/abstract/document/9555555/
   
 - authors: P. Tsinganos, B. Cornelis, J. Cornelis, B. Jansen and A. Skodras
   title: “The Effect of Space-filling Curves on the Efficiency of Hand Gesture Recognition Based on sEMG Signals”
