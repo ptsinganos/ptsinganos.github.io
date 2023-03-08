@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Panagiotis Tsinganos"
-resume_title:                   "PhD Candidate"
+resume_title:                   "PhD"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "panagiotis.tsinganos@upnet.gr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+30 261 099 7806"
+resume_contact_telephone:       ""
 resume_contact_address:         "University Campus, 26504 Rio Achaia, Greece"
 
-resume_header_contact_info:     "University Campus, 26504 Rio Achaia, Greece • +30 261 099 7806 • panagiotis.tsinganos@ece.upatras.gr"
+resume_header_contact_info:     "University Campus, 26504 Rio Achaia, Greece • panagiotis.tsinganos@upnet.gr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p><b>Panagiotis Tsinganos</b> is a PhD Candidate at the Department of Electrical and Computer Engineering, in University of Patras, Greece. He investigates the subject of gesture recognition based on surface electromyography (sEMG) using Deep Learning methods. His research interests include signal/image processing, machine learning and data mining as well as embedded systems programming.</p>"
+resume_header_intro: "<p><b>Panagiotis Tsinganos</b> holds a PhD degree (Doctor of Philophy and Doctor of Engineering Sciences) obtained from University of Patras, Greece and Vrije Universiteit Brussels, Belgium. He investigated the subject of gesture recognition based on surface electromyography (sEMG) using Deep Learning methods. His research interests include signal/image processing, machine learning and data mining as well as embedded systems programming.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
