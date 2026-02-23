@@ -97,6 +97,24 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_certifications %}
+      <!-- begin Certifications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Certifications</h2>
+        </header>
+
+        {% for certification in site.data.certifications %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <h3 class="resume-item-title" itemprop="name">{% if certification.url %}<a href="{{ certification.url }}">{{ certification.name }}</a>{% else %}{{ certification.name }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ certification.issuer }} &bull; {{ certification.date }}</h4>
+          {% if certification.summary %}<p class="resume-item-copy">{{ certification.summary }}</p>{% endif %}
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Certifications -->
+      {% endif %}
 
       {% if site.resume_section_publications %}
       <!-- begin Publication -->
