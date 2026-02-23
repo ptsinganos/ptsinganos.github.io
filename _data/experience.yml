@@ -4,17 +4,19 @@
   duration: Jan, 2022 &mdash; Jan, 2026
   summary: |
     Developed and optimized an Android-based augmented driver attention management system integrating Computer Vision and telematics.
-    • Enhanced machine learning performance by fine-tuning TensorFlow models for road object detection and driver state monitoring.
-    • Optimized model deployment on edge devices by implementing native code inference using the ncnn framework, significantly reducing latency.
-    • Architected and implemented complex driving score algorithms by fusing high-frequency IMU sensor data, GPS, and computer vision events.
-    • Managed the end-to-end pipeline for telematics data collection and real-time event detection.
+
+    - Enhanced machine learning performance by fine-tuning TensorFlow models for road object detection and driver state monitoring.
+    - Optimized model deployment on edge devices by implementing native code inference using the ncnn framework, significantly reducing latency.
+    - Architected and implemented complex driving score algorithms by fusing high-frequency IMU sensor data, GPS, and computer vision events.
+    - Managed the end-to-end pipeline for telematics data collection and real-time event detection.
 
 - company: Digital Signal and Image Processing Lab, University of Patras
   position: Researcher
   duration: Jul, 2017 &mdash; Jan, 2026
   summary: |
     Conducted cutting-edge research in biomedical signal processing and pattern recognition with a focus on Deep Learning for sEMG.
-    • Designed and evaluated state-of-the-art Deep Learning architectures (CNNs, TCNs) for high-accuracy hand gesture recognition.
-    • Developed a real-time gesture control interface used in serious games for physical rehabilitation (ENHANCE project).
-    • Published findings in high-impact international journals and conferences (Sensors MDPI, IISA).
-    • Collaborated with international partners (Vrije Universiteit Brussels) on cross-institutional research initiatives.
+
+    - Designed and evaluated state-of-the-art Deep Learning architectures (CNNs, TCNs) for high-accuracy hand gesture recognition.
+    - Developed a real-time gesture control interface used in serious games for physical rehabilitation (ENHANCE project).
+    - Published findings in high-impact international journals and conferences (Sensors MDPI, IISA).
+    - Collaborated with international partners (Vrije Universiteit Brussels) on cross-institutional research initiatives.
