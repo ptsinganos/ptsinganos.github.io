@@ -23,7 +23,7 @@ resume_contact_address:         "University Campus, 26504 Rio Achaia, Greece"
 resume_header_contact_info:     "University Campus, 26504 Rio Achaia, Greece • panagiotis.tsinganos@upnet.gr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p><b>Panagiotis Tsinganos</b> holds a PhD degree (Doctor of Philophy and Doctor of Engineering Sciences) obtained from University of Patras, Greece and Vrije Universiteit Brussels, Belgium. He investigated the subject of gesture recognition based on surface electromyography (sEMG) using Deep Learning methods. His research interests include signal/image processing, machine learning and data mining as well as embedded systems programming.</p>"
+resume_header_intro: "<p><b>Panagiotis Tsinganos</b> is a Machine Learning Engineer and Researcher with a PhD in Deep Learning and Bio-signal Processing. He specializes in developing state-of-the-art AI models for real-time applications, with extensive experience in Computer Vision, telematics, and high-performance edge deployment (Android/Native). His work bridges the gap between advanced research in signal processing and scalable, production-grade software engineering.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

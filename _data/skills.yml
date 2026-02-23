@@ -1,17 +1,19 @@
 # Skills
-# Organizational leadership
-#- skill: Organizational leadership
-#  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
 - skill: Programming languages
-  description: C/C++, Python, Android, Matlab, HTML, JavaScript
+  description: C/C++, Python, Java/Kotlin (Android), Matlab, HTML, JavaScript
+
+- skill: Machine Learning & AI
+  description: <a href="https://confirm.udacity.com/EYWCXCYK">Udacity AI for Healthcare Nanodegree</a>, TensorFlow, PyTorch, ncnn (Edge AI), Deep Learning (CNN, TCN), Scikit-learn
+
+- skill: Computer Vision & Sensors
+  description: Road Object Detection, Driver State Monitoring, Sensor Fusion (IMU, GPS), Telematics
+
+- skill: Mobile Development
+  description: Android SDK/NDK, Native code optimization, mobile ML deployment
 
 - skill: Signal Processing
-  description: Image and Signal Processing, Biomedical Signals
+  description: Image and Signal Processing, Biomedical Signals (sEMG, ECG)
 
-- skill: Machine Learning
-  description: <a href="https://confirm.udacity.com/EYWCXCYK">Udacity AI for Healthcare Nanodegree</a>, Data Mining, Artificial Neural Networks, Deep Learning
-  
 - skill: Web Development
   description: <a href="https://confirm.udacity.com/GDTR432H">Udacity Full Stack Developer Nanodegree</a>, Flask, React, REST API, Auth0 
   
