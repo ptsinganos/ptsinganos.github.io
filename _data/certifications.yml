@@ -1,10 +1,10 @@
 - name: Building Coding Agents with Tool Execution
-  issuer: Google
+  issuer: DeepLearning.AI
   date: 2025
-  url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Flearn.deeplearning.ai%2Faccomplishments%2Fa789f475-d0cf-4ab8-8a4c-af542c3f1280&urlhash=gaTv&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIpMmV3JgQaS9ZbyZOsGEAQ%3D%3D"
+  url: "https://learn.deeplearning.ai/accomplishments/a789f475-d0cf-4ab8-8a4c-af542c3f1280"
   summary: "Acquired advanced skills in developing autonomous agents capable of interacting with APIs and tools."
 - name: PyTorch for Deep Learning
-  issuer: Udacity/DeepLearning.AI
+  issuer: DeepLearning.AI
   date: 2026
-  url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Flearn.deeplearning.ai%2Fcertificates%2F2c71e279-36f5-4d18-94f0-15ad9b5b707f&urlhash=qKB2&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIpMmV3JgQaS9ZbyZOsGEAQ%3D%3D"
+  url: "https://learn.deeplearning.ai/certificates/2c71e279-36f5-4d18-94f0-15ad9b5b707f"
   summary: "Mastered fundamental and advanced concepts of deep learning using the PyTorch framework."
