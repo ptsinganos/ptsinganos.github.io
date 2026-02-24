@@ -12,7 +12,7 @@
 
 - company: Digital Signal and Image Processing Lab, University of Patras
   position: Researcher
-  duration: Jul, 2017 &mdash; Jan, 2026
+  duration: Jul, 2017 &mdash; Dec, 2022
   summary: |
     Conducted cutting-edge research in biomedical signal processing and pattern recognition with a focus on Deep Learning for sEMG.
 
@@ -20,3 +20,12 @@
     - Developed a real-time gesture control interface used in serious games for physical rehabilitation (ENHANCE project).
     - Published findings in high-impact international journals and conferences (Sensors MDPI, IISA).
     - Collaborated with international partners (Vrije Universiteit Brussels) on cross-institutional research initiatives.
+
+- company: Digital Signal and Image Processing Lab, University of Patras
+  position: Teaching Assistant
+  duration: Dec, 2017 &mdash; Dec, 2025
+  summary: |
+    Supervised and mentored undergraduate students on their thesis projects.
+
+    - Mentored 10+ students in the development of Machine Learning and Signal Processing projects using Python and MATLAB.
+    - Provided guidance on developing data engineering workflows and data analysis methodologies.

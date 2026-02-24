@@ -1,10 +1,11 @@
 # Degree
-- degree: Doctor of Philophy and Doctor of Engineering Sciences
+- degree: Doctor of Philophy and Doctor of Engineering Sciences (Joint Phd / Cotutelle)
   uni: University of Patras, Greece &ndash; Vrije Universiteit Brussels, Belgium
   year: 12/2017 &mdash; 11/2021
-#  awards:
-#    - award:
-#  summary: Department of Electrical and Computer Engineering, University of Patras, Greece &ndash; Department of Electronics and Informatics (ETRO), Vrije Universiteit Brussels (VUB), Belgium
+  awards:
+    - award: Andreas Mentzelopoulos Scholarships for the University of Patras
+  summary: |
+    Awarded as part of a joint doctoral program (Cotutelle) between the Department of Electrical and Computer Engineering (UPatras) and the Department of Electronics and Informatics (VUB-ETRO).
   thesis: Multi-channel EMG pattern classification based on deep learning
 
 - degree: MSc Degree in Biomedical Engineering
@@ -12,12 +13,9 @@
   year: 10/2015 &mdash; 6/2017
   thesis: Smartphone-based fall detection system for the elderly
   grade: 9.02/10
-#  award: Most likely to succeed
-#  summary: Department of Electrical and Computer Engineering, University of Patras, Greece
 
 - degree: Diploma in Electrical and Computer Engineering
   uni: University of Patras, Greece
   year: 10/2010 &mdash; 10/2015
   thesis: Transmission of biomedical signals using a wireless sensor network
   grade: 8.31/10
-#  summary: Department of Electrical and Computer Engineering, University of Patras, Greece
