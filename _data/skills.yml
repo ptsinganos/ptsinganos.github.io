@@ -3,22 +3,22 @@
   description: C/C++, Python, Java/Kotlin (Android), Matlab, HTML, JavaScript
 
 - skill: Machine Learning & AI
-  description: <a href="https://confirm.udacity.com/EYWCXCYK">Udacity AI for Healthcare Nanodegree</a>, TensorFlow, PyTorch, ncnn (Edge AI), Deep Learning (CNN, TCN), Scikit-learn
+  description: TensorFlow, PyTorch, Scikit-learn, Deep Learning, Model Optimization, Quantization, Inference, Transfer Learning
+
+- skill: Edge AI & Embedded ML
+  description: ncnn, ONNX Runtime, TensorFlow Lite, Hardware Acceleration, Mobile ML Deployment
 
 - skill: Computer Vision & Sensors
-  description: Road Object Detection, Driver State Monitoring, Sensor Fusion (IMU, GPS), Telematics
+  description: Road Object Detection, Driver State Monitoring, YOLO models, Sensor Fusion (IMU, GPS), Telematics
 
 - skill: Mobile Development
-  description: Android SDK/NDK, Native code optimization, mobile ML deployment
+  description: Android SDK/NDK, JNI, Native code optimization
 
 - skill: Signal Processing
-  description: Image and Signal Processing, Biomedical Signals (sEMG, ECG)
+  description: Image Processing, Digital Signal Processing, Biomedical Signals (sEMG, ECG), Wearable Sensors
 
 - skill: Web Development
-  description: <a href="https://confirm.udacity.com/GDTR432H">Udacity Full Stack Developer Nanodegree</a>, Flask, React, REST API, Auth0 
-  
-- skill: Embedded Programming
-  description: Experience in ARM Cortex M3 and RTOS
+  description: Flask, React, REST API, Auth0, Docker
 
 - skill: Communication protocols
   description: TCP/IP, GSM, MQTT

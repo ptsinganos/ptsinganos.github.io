@@ -1,8 +1,3 @@
-- name: Building Coding Agents with Tool Execution
-  issuer: DeepLearning.AI
-  date: 2025
-  url: "https://learn.deeplearning.ai/accomplishments/a789f475-d0cf-4ab8-8a4c-af542c3f1280"
-  summary: "Acquired advanced skills in developing autonomous agents capable of interacting with APIs and tools."
 - name: PyTorch for Deep Learning
   issuer: DeepLearning.AI
   date: 2026
@@ -13,3 +8,18 @@
   date: 2026
   url: "https://learn.deeplearning.ai/accomplishments/45043592-06ee-4fc9-a462-0aaa57c96165"
   summary: "Learned the core concepts of MCP and how to build AI applications using it."
+- name: Building Coding Agents with Tool Execution
+  issuer: DeepLearning.AI
+  date: 2025
+  url: "https://learn.deeplearning.ai/accomplishments/a789f475-d0cf-4ab8-8a4c-af542c3f1280"
+  summary: "Acquired advanced skills in developing autonomous agents capable of interacting with APIs and tools."
+- name: Udacity AI for Healthcare Nanodegree
+  issuer: Udacity
+  date: 2020
+  url: "https://confirm.udacity.com/EYWCXCYK"
+  summary: "Completed a nanodegree focusing on AI applications in healthcare."
+- name: Udacity Full Stack Developer Nanodegree
+  issuer: Udacity
+  date: 2020
+  url: "https://confirm.udacity.com/GDTR432H"
+  summary: "Completed a nanodegree covering front-end and back-end web development."
