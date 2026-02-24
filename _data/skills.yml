@@ -3,7 +3,7 @@
   description: C/C++, Python, Java/Kotlin (Android), Matlab, HTML, JavaScript
 
 - skill: Machine Learning & AI
-  description: TensorFlow, PyTorch, Scikit-learn, Deep Learning, Model Optimization, Quantization, Inference, Transfer Learning
+  description: TensorFlow, PyTorch, Scikit-learn, MLflow, Deep Learning, Model Optimization, Quantization, Inference, Transfer Learning
 
 - skill: Edge AI & Embedded ML
   description: ncnn, ONNX Runtime, TensorFlow Lite, Hardware Acceleration, Mobile ML Deployment

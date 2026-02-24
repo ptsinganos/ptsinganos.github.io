@@ -5,10 +5,19 @@
   summary: |
     Developed and optimized an Android-based augmented driver attention management system integrating Computer Vision and telematics.
 
-    - Enhanced machine learning performance by fine-tuning TensorFlow models for road object detection and driver state monitoring.
+    - Enhanced machine learning performance by annotating collected data, fine-tuning TensorFlow models for road object detection and driver state monitoring.
     - Optimized model deployment on edge devices by implementing native code inference using the ncnn framework, significantly reducing latency.
     - Architected and implemented complex driving score algorithms by fusing high-frequency IMU sensor data, GPS, and computer vision events.
     - Managed the end-to-end pipeline for telematics data collection and real-time event detection.
+
+- company: Digital Signal and Image Processing Lab, University of Patras
+  position: Teaching Assistant
+  duration: Dec, 2017 &mdash; Dec, 2025
+  summary: |
+    Supervised and mentored undergraduate students on their thesis projects.
+
+    - Mentored students in the development of Machine Learning and Signal Processing projects using Python and MATLAB.
+    - Provided guidance on developing data engineering workflows and data analysis methodologies.
 
 - company: Digital Signal and Image Processing Lab, University of Patras
   position: Researcher
@@ -20,12 +29,3 @@
     - Developed a real-time gesture control interface used in serious games for physical rehabilitation (ENHANCE project).
     - Published findings in high-impact international journals and conferences (Sensors MDPI, IISA).
     - Collaborated with international partners (Vrije Universiteit Brussels) on cross-institutional research initiatives.
-
-- company: Digital Signal and Image Processing Lab, University of Patras
-  position: Teaching Assistant
-  duration: Dec, 2017 &mdash; Dec, 2025
-  summary: |
-    Supervised and mentored undergraduate students on their thesis projects.
-
-    - Mentored 10+ students in the development of Machine Learning and Signal Processing projects using Python and MATLAB.
-    - Provided guidance on developing data engineering workflows and data analysis methodologies.

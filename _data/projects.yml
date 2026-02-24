@@ -5,11 +5,14 @@
   role: Researcher - Developer
   duration: Sep. 2020
   url: "http://dsip.ece.upatras.gr/projects/"
-  description: Assisted in the development of a serious game controlled by a surface electromyography (sEMG) interface for rehabilitation purposes
+  description: Supervised the development of a serious game controlled by a surface electromyography (sEMG) interface for rehabilitation purposes
 
 - project: Smartphone-based fall detection system for the elderly
   role: Researcher - Developer
   duration: Sep. 2016 &mdash; Jun. 2017
   url: "https://bitbucket.org/tsingpanos/workspace/projects/FALLD"
-  description: Implemented an Android app that detects when an elderly user has fallen and automatically alerts their selected emergency contacts
+  description: |
+    Implemented an Android app that detects when an elderly user has fallen and automatically alerts their selected emergency contacts
+
+    -  Developed a sensor fusion algorithm in Java/Android that integrated accelerometer and gyroscope data to distinguish between "Activities of Daily Living" (ADLs) and actual falls.
 
