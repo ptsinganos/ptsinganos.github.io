@@ -1,3 +1,8 @@
+- name: AI-Powered Software Engineer
+  issuer: Udacity
+  date: 2026
+  url: "https://www.udacity.com/certificate/e/a3192c5a-001a-11f1-8ef5-93f4072c40f8"
+  summary: "Completed the Udacity Nanodegree program focused on integrating AI into the software development lifecycle, utilizing LLMs for code generation, and building AI-enhanced applications."
 - name: PyTorch for Deep Learning
   issuer: DeepLearning.AI
   date: 2026
