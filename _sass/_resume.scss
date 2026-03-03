@@ -224,10 +224,21 @@
 
 .print-only { display: none !important }
 
+@page {
+  margin: 1cm;
+}
+
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
+  body { font-size: 12px; line-height: 1.2rem; background: white; color: black; }
+  .wrapper {
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+  }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
@@ -238,25 +249,66 @@
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
-    h2 { font-size: 1.2rem; line-height: 1.5rem; }
+    break-after: avoid;
+    h2 { font-size: 1.2rem; line-height: 1.5rem; margin-bottom: 0.5rem; }
   }
   .content-section {
     margin: 0 0 1rem;
-    .resume-item { margin-bottom: 1rem; }
+    break-inside: auto;
+
+    .resume-item {
+      margin-bottom: 1rem;
+      break-inside: avoid;
+    }
+
     .resume-item-title {
       font-size: 16px;
-      line-height: .7em;
+      line-height: 1.2rem;
+      margin-top: 0;
+      break-after: avoid;
     }
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0 0 .75rem;
-      line-height: .7em;
+      margin: 0 0 .5rem;
+      line-height: 1.2rem;
       font-style:italic;
+      break-after: avoid;
 
       &.award-title {
         font-size: 11px;
       }
     }
+
+    .resume-item-copy {
+      margin-top: 0;
+    }
+  }
+
+  // Ensure grid items don't break awkwardly
+  .resume-item-grid {
+    display: block; // Fallback for print to avoid grid break issues in some browsers
+    .resume-item {
+      break-inside: avoid;
+      background: none !important;
+      border: none !important;
+      padding: 0 !important;
+      margin-bottom: 1rem !important;
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  // Remove footer from print if it's just meta info
+  .page-footer {
+    display: none;
   }
 }
