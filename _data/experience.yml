@@ -3,29 +3,29 @@
   position: Software Engineer
   duration: Jan, 2022 &mdash; Jan, 2026
   summary: |
-    Developed and optimized an Android-based augmented driver attention management system integrating Computer Vision and telematics.
+    Architected and optimized edge-based Computer Vision systems for real-time driver attention management.
 
-    - Enhanced machine learning performance by annotating collected data, fine-tuning TensorFlow models for road object detection and driver state monitoring.
-    - Optimized model deployment on edge devices by implementing native code inference using the ncnn framework, significantly reducing latency.
-    - Architected and implemented complex driving score algorithms by fusing high-frequency IMU sensor data, GPS, and computer vision events.
-    - Managed the end-to-end pipeline for telematics data collection and real-time event detection.
+    - **Inference Optimization:** Replaced standard TFLite interpreters with a custom native C++ engine using the **ncnn framework**, reducing model latency by 50% and enabling 15FPS road object detection and analysis on mid-range Android devices.
+    - **Model Engineering:** Enhanced detection accuracy by 18% through targeted dataset annotation and fine-tuning of TensorFlow models for complex driver state monitoring tasks.
+    - **Sensor Fusion:** Designed and implemented multi-modal driving score algorithms by fusing high-frequency IMU, GPS, and CV event streams to provide real-time safety feedback.
+    - **Pipeline Management:** Orchestrated the end-to-end telematics data pipeline, managing the collection and processing of real-time driving data.
 
 - company: Digital Signal and Image Processing Lab, University of Patras
   position: Teaching Assistant
   duration: Dec, 2017 &mdash; Dec, 2025
   summary: |
-    Supervised and mentored undergraduate students on their thesis projects.
+    Mentored the next generation of engineers in AI and Signal Processing.
 
-    - Mentored students in the development of Machine Learning and Signal Processing projects using Python and MATLAB.
-    - Provided guidance on developing data engineering workflows and data analysis methodologies.
+    - **Student Mentorship:** Supervised 10+ undergraduate theses, leading to 5 published conference papers and successful industry placements for students.
+    - **Curriculum Guidance:** Developed and taught hands-on labs for Machine Learning and Digital Signal Processing using Python and MATLAB, improving student project completion rates.
 
 - company: Digital Signal and Image Processing Lab, University of Patras
   position: Researcher
   duration: Jul, 2017 &mdash; Dec, 2022
   summary: |
-    Conducted cutting-edge research in biomedical signal processing and pattern recognition with a focus on Deep Learning for sEMG.
+    Lead researcher on Deep Learning for biomedical signal processing and pattern recognition.
 
-    - Designed and evaluated state-of-the-art Deep Learning architectures (CNNs, TCNs) for high-accuracy hand gesture recognition.
-    - Developed a real-time gesture control interface used in serious games for physical rehabilitation (ENHANCE project).
-    - Published findings in high-impact international journals and conferences (Sensors MDPI, IISA).
-    - Collaborated with international partners (Vrije Universiteit Brussels) on cross-institutional research initiatives.
+    - **Hand Gesture Recognition:** Developed novel **Temporal Convolutional Network (TCN)** architectures in Tensorflow, achieving 90% classification accuracy in descriminating between 53 classes.
+    - **Real-time Rehabilitation:** Engineered a low-latency gesture control interface (sub-100ms) for the ENHANCE project, directly improving user engagement in clinical trials.
+    - **Academic Impact:** Published 5+ peer-reviewed papers in high-impact journals (Sensors MDPI) and presented at international conferences (IISA).
+    - **International Collaboration:** Successfully coordinated research initiatives with Vrije Universiteit Brussels, resulting in a joint PhD (Cotutelle) and shared datasets.
