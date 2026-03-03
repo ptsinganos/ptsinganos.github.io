@@ -1,6 +1,6 @@
 # Skills
 - skill: Programming languages
-  description: C/C++, Python, Java/Kotlin (Android), Matlab, HTML, JavaScript
+  description: Python, Java/Kotlin (Android), Matlab, HTML, JavaScript, C/C++
 
 - skill: Machine Learning & AI
   description: TensorFlow, PyTorch, Scikit-learn, MLflow, Deep Learning, Model Optimization, Quantization, Inference, Transfer Learning
@@ -11,6 +11,9 @@
 - skill: Computer Vision & Sensors
   description: Road Object Detection, Driver State Monitoring, YOLO models, Sensor Fusion (IMU, GPS), Telematics
 
+- skill: Cloud
+  description: Docker
+
 - skill: Mobile Development
   description: Android SDK/NDK, JNI, Native code optimization
 
@@ -18,7 +21,7 @@
   description: Image Processing, Digital Signal Processing, Biomedical Signals (sEMG, ECG), Wearable Sensors
 
 - skill: Web Development
-  description: Flask, React, REST API, Auth0, Docker
+  description: Flask, REST API, React
 
 - skill: Communication protocols
   description: TCP/IP, GSM, MQTT

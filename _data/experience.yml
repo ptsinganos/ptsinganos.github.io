@@ -27,5 +27,5 @@
 
     - **Hand Gesture Recognition:** Developed novel **Temporal Convolutional Network (TCN)** architectures in Tensorflow, achieving 90% classification accuracy in descriminating between 53 classes.
     - **Real-time Rehabilitation:** Engineered a low-latency gesture control interface (sub-100ms) for the ENHANCE project, directly improving user engagement in clinical trials.
-    - **Academic Impact:** Published 5+ peer-reviewed papers in high-impact journals (Sensors MDPI) and presented at international conferences (IISA).
+    - **Academic Impact:** Published 5+ peer-reviewed papers in high-impact journals (Sensors MDPI) and presented at international conferences (ICASSP, IISA).
     - **International Collaboration:** Successfully coordinated research initiatives with Vrije Universiteit Brussels, resulting in a joint PhD (Cotutelle) and shared datasets.
