@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Panagiotis Tsinganos"
-resume_title:                   "Senior Machine Learning Engineer | Edge AI & Signal Processing Specialist"
+resume_title:                   "Senior Machine Learning Engineer | Edge AI & Computer Vision Specialist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "tsinganospanagiotis@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "University Campus, 26504 Rio Achaia, Greece"
 resume_header_contact_info:     "University Campus, 26504 Rio Achaia, Greece • panagiotis.tsinganos@upnet.gr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p><b>Panagiotis Tsinganos</b> is a Machine Learning Engineer and Researcher with a PhD in Deep Learning and Bio-signal Processing. He specializes in developing state-of-the-art AI models for real-time applications, with extensive experience in Computer Vision, telematics, and high-performance edge deployment (Android/Native). His work bridges the gap between advanced research in signal processing and scalable, production-grade software engineering.</p>"
+resume_header_intro: "<p><b>Senior Machine Learning Engineer</b> specializing in high-performance Edge AI and Computer Vision. I deliver real-time deep learning solutions for resource-constrained environments, with a proven track record of optimizing model latency and architecting robust telematics pipelines. I bridge the gap between advanced research in signal processing and scalable, production-grade software engineering for startups and high-growth teams.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

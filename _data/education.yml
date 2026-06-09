@@ -1,11 +1,20 @@
 # Degree
-- degree: Doctor of Philophy and Doctor of Engineering Sciences (Joint Phd / Cotutelle)
-  uni: University of Patras, Greece &ndash; Vrije Universiteit Brussels, Belgium
+- degree: Doctor of Philosophy and Doctor of Engineering Sciences (Joint PhD / Cotutelle)
+  uni: University of Patras, Greece &ndash; Vrije Universiteit Brussel, Belgium
   year: 12/2017 &mdash; 11/2021
   awards:
     - award: Andreas Mentzelopoulos Scholarships for the University of Patras
   summary: |
-    Awarded as part of a joint doctoral program (Cotutelle) between the Department of Electrical and Computer Engineering (UPatras) and the Department of Electronics and Informatics (VUB-ETRO).
+    Full-time PhD Research & Teaching Residency focusing on high-accuracy gesture recognition systems.
+
+    **Research Highlights:**
+    - Developed novel **Temporal Convolutional Network (TCN)** architectures in Tensorflow, achieving 90% classification accuracy in discriminating between 53 classes.
+    - Engineered a low-latency gesture control interface (sub-100ms) for the ENHANCE project, directly improving user engagement in clinical trials.
+    - Coordinated international research initiatives with VUB (Belgium), resulting in shared datasets and a joint doctorate.
+
+    **Teaching & Mentorship:**
+    - Mentored 10+ undergraduate theses in AI/Signal Processing, leading to 5 published conference papers and successful industry placements.
+    - Developed and taught hands-on labs for Machine Learning and Digital Signal Processing using Python and MATLAB.
   thesis: Multi-channel EMG pattern classification based on deep learning
 
 - degree: MSc Degree in Biomedical Engineering

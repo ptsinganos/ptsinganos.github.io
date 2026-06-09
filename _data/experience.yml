@@ -1,31 +1,13 @@
 # Jobs
 - company: dreyev
-  position: Software Engineer
+  position: Senior Software Engineer (Machine Learning)
   duration: Jan, 2022 &mdash; Jan, 2026
   summary: |
-    Architected and optimized edge-based Computer Vision systems for real-time driver attention management.
+    *US-based Automotive AI Startup | Real-time Driver Safety & Telematics*
 
-    - **Inference Optimization:** Replaced standard TFLite interpreters with a custom native C++ engine using the **ncnn framework**, reducing model latency by 50% and enabling 15FPS road object detection and analysis on mid-range Android devices.
-    - **Model Engineering:** Enhanced detection accuracy by 18% through targeted dataset annotation and fine-tuning of TensorFlow models for complex driver state monitoring tasks.
+    Led the architecture and optimization of edge-based Computer Vision systems for real-time driver attention management, collaborating with a small cross-functional engineering team and reporting to the CTO.
+
+    - **Inference Optimization:** Replaced standard TFLite interpreters with a custom native C++ engine using the **ncnn framework**, reducing model latency and enabling 15FPS road object detection on mid-range Android devices.
+    - **Model Engineering:** Enhanced object detection accuracy through targeted dataset annotation and fine-tuning of TensorFlow models for complex driver state monitoring tasks.
     - **Sensor Fusion:** Designed and implemented multi-modal driving score algorithms by fusing high-frequency IMU, GPS, and CV event streams to provide real-time safety feedback.
     - **Pipeline Management:** Orchestrated the end-to-end telematics data pipeline, managing the collection and processing of real-time driving data.
-
-- company: Digital Signal and Image Processing Lab, University of Patras
-  position: Teaching Assistant
-  duration: Dec, 2017 &mdash; Dec, 2025
-  summary: |
-    Mentored the next generation of engineers in AI and Signal Processing.
-
-    - **Student Mentorship:** Supervised 10+ undergraduate theses, leading to 5 published conference papers and successful industry placements for students.
-    - **Curriculum Guidance:** Developed and taught hands-on labs for Machine Learning and Digital Signal Processing using Python and MATLAB, improving student project completion rates.
-
-- company: Digital Signal and Image Processing Lab, University of Patras
-  position: Researcher
-  duration: Jul, 2017 &mdash; Dec, 2022
-  summary: |
-    Lead researcher on Deep Learning for biomedical signal processing and pattern recognition.
-
-    - **Hand Gesture Recognition:** Developed novel **Temporal Convolutional Network (TCN)** architectures in Tensorflow, achieving 90% classification accuracy in descriminating between 53 classes.
-    - **Real-time Rehabilitation:** Engineered a low-latency gesture control interface (sub-100ms) for the ENHANCE project, directly improving user engagement in clinical trials.
-    - **Academic Impact:** Published 5+ peer-reviewed papers in high-impact journals (Sensors MDPI) and presented at international conferences (ICASSP, IISA).
-    - **International Collaboration:** Successfully coordinated research initiatives with Vrije Universiteit Brussels, resulting in a joint PhD (Cotutelle) and shared datasets.
