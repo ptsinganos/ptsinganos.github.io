@@ -1,6 +1,18 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: Luminous TCG &mdash; Agentic Discovery Engine
+  role: Creator - Lead Developer
+  duration: 2026
+  url: "https://github.com/ptsinganos/pokemon-tcg-agent"
+  description: |
+    Developed a sophisticated visual and metadata discovery engine for Pokémon TCG, combining multimodal retrieval and agentic search orchestration.
+
+    - **Agentic Search Orchestration:** Engineered a stateful search agent using **LangGraph** to process complex natural language queries, handle multi-turn dialogue, and resolve user search intent.
+    - **Multimodal Retrieval:** Integrated **CLIP** vision-language embeddings via Hugging Face to enable semantic search by visual composition, color palette, and abstract thematic vibes.
+    - **Backend Microservice:** Implemented a high-performance **FastAPI** REST backend to coordinate the agent state, query TCGdex metadata, and serve vector embeddings.
+    - **Modern Frontend:** Developed a responsive discovery interface using **React** and **Vite** to display multi-dimensional card relationships.
+
 - project: EMG-based Hand Gesture Recognition for Rehabilitation (ENHANCE)
   role: Researcher - Developer
   duration: Sep. 2020
